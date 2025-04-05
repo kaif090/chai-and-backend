@@ -25,3 +25,5 @@ class apierrors extends Error{
     }
     
 }
+
+export {apierrors};
